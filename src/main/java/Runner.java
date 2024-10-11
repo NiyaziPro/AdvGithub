@@ -21,6 +21,10 @@ public class Runner {
         System.out.println("niyazi task 1");
 
 
+
         System.out.println("niyazi task 2");
+
+   
+
     }
 }
