@@ -18,5 +18,7 @@ public class Runner {
         System.out.println("Developer1 changes");
         // developer2 changes
 
+        System.out.println("niyazi task 1");
+
     }
 }
