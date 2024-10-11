@@ -9,5 +9,7 @@ public class Runner {
         System.out.println("Techpro 2");
 
         System.out.println("Test1");
+
+        System.out.println("Techpro 3");
     }
 }
